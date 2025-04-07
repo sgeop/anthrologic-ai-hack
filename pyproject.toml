@@ -1,0 +1,13 @@
+[project]
+name = "ai-hack"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dspy>=2.6.16",
+    "ibis-framework[duckdb]>=10.4.0",
+    "ipython>=9.0.2",
+    "jupyter>=1.1.1",
+    "polars>=1.26.0",
+]
