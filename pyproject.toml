@@ -10,4 +10,5 @@ dependencies = [
     "ipython>=9.0.2",
     "jupyter>=1.1.1",
     "polars>=1.26.0",
+    "skrub>=0.5.3",
 ]
